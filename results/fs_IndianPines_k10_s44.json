@@ -1,0 +1,10 @@
+{
+  "OA": 0.7295073842799088,
+  "AA": 0.8276076333458812,
+  "kappa": 0.696308050438164,
+  "dataset": "IndianPines",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 10089
+}

@@ -1,0 +1,5 @@
+{
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "n": 9,
+  "d_text": 768
+}

@@ -1,0 +1,30 @@
+{
+  "tag": "finetune_IndianPines_s44",
+  "dataset": "IndianPines",
+  "seed": 44,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s44.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_IndianPines_s44.pt",
+  "best_va_oa": 0.486328125,
+  "epochs_run": 40,
+  "test_OA": 0.48476964769647696,
+  "test_AA": 0.24921232538532068,
+  "test_kappa": 0.36953002028783444,
+  "per_class": [
+    0.0,
+    0.12441679626749612,
+    0.0,
+    0.0,
+    0.0,
+    0.9194528875379939,
+    0.0,
+    0.9488372093023256,
+    0.0,
+    0.0,
+    0.9796287913082843,
+    0.009380863039399626,
+    0.016216216216216217,
+    0.9894644424934153,
+    0.0,
+    0.0
+  ]
+}

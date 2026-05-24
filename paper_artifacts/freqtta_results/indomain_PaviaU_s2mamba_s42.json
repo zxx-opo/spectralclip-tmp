@@ -1,0 +1,23 @@
+{
+  "tag": "indomain_PaviaU_s2mamba_s42",
+  "dataset": "PaviaU",
+  "model": "s2mamba",
+  "seed": 42,
+  "epochs_run": 40,
+  "best_va_oa": 0.955077211043519,
+  "test_OA": 0.9598981871071632,
+  "test_AA": 0.9405076549796971,
+  "test_kappa": 0.9468187034311201,
+  "per_class": [
+    0.9644712585889057,
+    0.9843312481382186,
+    0.8035997882477501,
+    0.971718636693256,
+    0.9966969446738233,
+    0.9330682571239232,
+    0.8514190317195326,
+    0.9592637296318648,
+    1.0
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_s2mamba_s42.pt"
+}

@@ -1,0 +1,23 @@
+{
+  "tag": "indomain_PaviaU_famssm_s43",
+  "dataset": "PaviaU",
+  "model": "famssm",
+  "seed": 43,
+  "epochs_run": 60,
+  "best_va_oa": 0.9808142255498362,
+  "test_OA": 0.9825463612279881,
+  "test_AA": 0.9761374241085764,
+  "test_kappa": 0.9768782856098619,
+  "per_class": [
+    0.9783810960281548,
+    0.9928507596067918,
+    0.9142403388035998,
+    0.9818709209572154,
+    1.0,
+    0.979456593770709,
+    0.9716193656093489,
+    0.9773687386843694,
+    0.9894490035169988
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_famssm_s43.pt"
+}

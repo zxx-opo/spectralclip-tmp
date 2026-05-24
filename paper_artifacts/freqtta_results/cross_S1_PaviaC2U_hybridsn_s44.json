@@ -1,0 +1,36 @@
+{
+  "tag": "cross_S1_PaviaC2U_hybridsn_s44",
+  "pair": "S1_PaviaC2U",
+  "model": "hybridsn",
+  "seed": 44,
+  "src_epochs_run": 30,
+  "src_best_va_oa": 0.9931136916014043,
+  "src_ckpt": "/root/freqtta-hsi/checkpoints/cross_S1_PaviaC2U_hybridsn_s44_src.pt",
+  "tta": {
+    "source_only": {
+      "OA": 0.1836,
+      "AA": 0.1913772427744053,
+      "kappa": 0.05781776746111578,
+      "per_class": [
+        0.04298356510745891,
+        0.20724907063197026,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.02040816326530612,
+        0.9166666666666666,
+        0.5350877192982456
+      ]
+    },
+    "tent": {
+      "error": "optimizer got an empty parameter list"
+    },
+    "eata": {
+      "error": "optimizer got an empty parameter list"
+    },
+    "cotta_lite": {
+      "error": "optimizer got an empty parameter list"
+    }
+  }
+}

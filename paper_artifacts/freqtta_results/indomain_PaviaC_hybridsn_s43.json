@@ -1,0 +1,23 @@
+{
+  "tag": "indomain_PaviaC_hybridsn_s43",
+  "dataset": "PaviaC",
+  "model": "hybridsn",
+  "seed": 43,
+  "epochs_run": 40,
+  "best_va_oa": 0.9963543073183905,
+  "test_OA": 0.9960626968651567,
+  "test_AA": 0.9891345680958781,
+  "test_kappa": 0.9944247374696732,
+  "per_class": [
+    1.0,
+    0.9758701374670956,
+    0.9773544212796549,
+    0.9797269342159702,
+    0.9964562942963213,
+    0.9926717924074964,
+    0.9812471413325202,
+    0.9988843918638439,
+    1.0
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_hybridsn_s43.pt"
+}

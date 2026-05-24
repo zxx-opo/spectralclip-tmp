@@ -1,0 +1,1155 @@
+========== Sat May 23 13:13:37 UTC 2026 ==========
+total=30 famssm=5 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_PaviaU_famssm_s43.json
+/root/freqtta-hsi/results/indomain_Salinas_famssm_s42.json
+/root/freqtta-hsi/results/indomain_IndianPines_famssm_s42.json
+master log tail:
+    pair = TRANSFER_PAIRS[pair_name]
+KeyError: 'S2_PaviaC2U'
+[FAIL] cross_S2_PaviaC2U_hybridsn_s43 (exit=1)
+
+========== Sat May 23 13:23:37 UTC 2026 ==========
+total=30 famssm=5 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_PaviaU_famssm_s43.json
+/root/freqtta-hsi/results/indomain_Salinas_famssm_s42.json
+/root/freqtta-hsi/results/indomain_IndianPines_famssm_s42.json
+master log tail:
+    pair = TRANSFER_PAIRS[pair_name]
+KeyError: 'S2_PaviaC2U'
+[FAIL] cross_S2_PaviaC2U_hybridsn_s43 (exit=1)
+
+========== Sat May 23 13:33:37 UTC 2026 ==========
+total=30 famssm=5 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_PaviaU_famssm_s43.json
+/root/freqtta-hsi/results/indomain_Salinas_famssm_s42.json
+/root/freqtta-hsi/results/indomain_IndianPines_famssm_s42.json
+master log tail:
+    pair = TRANSFER_PAIRS[pair_name]
+KeyError: 'S2_PaviaC2U'
+[FAIL] cross_S2_PaviaC2U_hybridsn_s43 (exit=1)
+
+========== Sat May 23 13:43:37 UTC 2026 ==========
+total=32 famssm=7 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_IndianPines_famssm_s43.json
+/root/freqtta-hsi/results/indomain_PaviaC_famssm_s43.json
+/root/freqtta-hsi/results/indomain_PaviaU_famssm_s43.json
+master log tail:
+    pair = TRANSFER_PAIRS[pair_name]
+KeyError: 'S2_PaviaC2U'
+[FAIL] cross_S2_PaviaC2U_hybridsn_s43 (exit=1)
+
+========== Sat May 23 13:53:38 UTC 2026 ==========
+total=32 famssm=7 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_IndianPines_famssm_s43.json
+/root/freqtta-hsi/results/indomain_PaviaC_famssm_s43.json
+/root/freqtta-hsi/results/indomain_PaviaU_famssm_s43.json
+master log tail:
+    pair = TRANSFER_PAIRS[pair_name]
+KeyError: 'S2_PaviaC2U'
+[FAIL] cross_S2_PaviaC2U_hybridsn_s43 (exit=1)
+
+========== Sat May 23 14:03:38 UTC 2026 ==========
+total=33 famssm=8 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_Salinas_famssm_s43.json
+/root/freqtta-hsi/results/indomain_IndianPines_famssm_s43.json
+/root/freqtta-hsi/results/indomain_PaviaC_famssm_s43.json
+master log tail:
+    pair = TRANSFER_PAIRS[pair_name]
+KeyError: 'S2_PaviaC2U'
+[FAIL] cross_S2_PaviaC2U_hybridsn_s43 (exit=1)
+
+========== Sat May 23 14:13:38 UTC 2026 ==========
+total=34 famssm=9 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_PaviaU_famssm_s44.json
+/root/freqtta-hsi/results/indomain_Salinas_famssm_s43.json
+/root/freqtta-hsi/results/indomain_IndianPines_famssm_s43.json
+master log tail:
+    pair = TRANSFER_PAIRS[pair_name]
+KeyError: 'S2_PaviaC2U'
+[FAIL] cross_S2_PaviaC2U_hybridsn_s43 (exit=1)
+
+========== Sat May 23 14:23:38 UTC 2026 ==========
+total=37 famssm=9 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_PaviaU_hybridsn_s44.json
+/root/freqtta-hsi/results/indomain_PaviaU_spectralformer_s44.json
+/root/freqtta-hsi/results/indomain_PaviaU_s2mamba_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_hybridsn_s44.pt"
+}
+[RUN ] indomain_PaviaC_famssm_s44
+
+========== Sat May 23 14:33:38 UTC 2026 ==========
+total=37 famssm=9 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_PaviaU_hybridsn_s44.json
+/root/freqtta-hsi/results/indomain_PaviaU_spectralformer_s44.json
+/root/freqtta-hsi/results/indomain_PaviaU_s2mamba_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_hybridsn_s44.pt"
+}
+[RUN ] indomain_PaviaC_famssm_s44
+
+========== Sat May 23 14:43:38 UTC 2026 ==========
+total=38 famssm=10 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_PaviaC_famssm_s44.json
+/root/freqtta-hsi/results/indomain_PaviaU_hybridsn_s44.json
+/root/freqtta-hsi/results/indomain_PaviaU_spectralformer_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_famssm_s44.pt"
+}
+[RUN ] indomain_PaviaC_s2mamba_s44
+
+========== Sat May 23 14:53:38 UTC 2026 ==========
+total=38 famssm=10 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_PaviaC_famssm_s44.json
+/root/freqtta-hsi/results/indomain_PaviaU_hybridsn_s44.json
+/root/freqtta-hsi/results/indomain_PaviaU_spectralformer_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_famssm_s44.pt"
+}
+[RUN ] indomain_PaviaC_s2mamba_s44
+
+========== Sat May 23 15:03:38 UTC 2026 ==========
+total=39 famssm=10 cross=2 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_famssm_s42.json
+/root/freqtta-hsi/results/indomain_PaviaC_famssm_s44.json
+/root/freqtta-hsi/results/indomain_PaviaU_hybridsn_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_famssm_s44.pt"
+}
+[RUN ] indomain_PaviaC_s2mamba_s44
+
+========== Sat May 23 15:13:38 UTC 2026 ==========
+total=43 famssm=11 cross=0 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_IndianPines_famssm_s44.json
+/root/freqtta-hsi/results/indomain_PaviaC_hybridsn_s44.json
+/root/freqtta-hsi/results/indomain_PaviaC_spectralformer_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_IndianPines_famssm_s44.pt"
+}
+[RUN ] indomain_IndianPines_s2mamba_s44
+
+========== Sat May 23 15:23:38 UTC 2026 ==========
+total=46 famssm=11 cross=0 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_IndianPines_hybridsn_s44.json
+/root/freqtta-hsi/results/indomain_IndianPines_spectralformer_s44.json
+/root/freqtta-hsi/results/indomain_IndianPines_s2mamba_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_IndianPines_hybridsn_s44.pt"
+}
+[RUN ] indomain_Salinas_famssm_s44
+
+========== Sat May 23 15:33:38 UTC 2026 ==========
+total=47 famssm=12 cross=0 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_Salinas_famssm_s44.json
+/root/freqtta-hsi/results/indomain_IndianPines_hybridsn_s44.json
+/root/freqtta-hsi/results/indomain_IndianPines_spectralformer_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_famssm_s44.pt"
+}
+[RUN ] indomain_Salinas_s2mamba_s44
+
+========== Sat May 23 15:43:38 UTC 2026 ==========
+total=51 famssm=12 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_Salinas_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_famssm_s42.json
+/root/freqtta-hsi/results/indomain_Salinas_spectralformer_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_hybridsn_s44.pt"
+}
+[RUN ] cross_S1_PaviaC2U_famssm_s42
+
+========== Sat May 23 15:53:38 UTC 2026 ==========
+total=51 famssm=12 cross=0 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/indomain_Salinas_hybridsn_s44.json
+/root/freqtta-hsi/results/_backup_cross_S2_noise015_famssm_s42.json
+/root/freqtta-hsi/results/indomain_Salinas_spectralformer_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_hybridsn_s44.pt"
+}
+[RUN ] cross_S1_PaviaC2U_famssm_s42
+
+========== Sat May 23 16:03:38 UTC 2026 ==========
+total=52 famssm=12 cross=1 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_s2mamba_s42.json
+/root/freqtta-hsi/results/indomain_Salinas_hybridsn_s44.json
+/root/freqtta-hsi/results/_backup_cross_S2_noise015_famssm_s42.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_hybridsn_s44.pt"
+}
+[RUN ] cross_S1_PaviaC2U_famssm_s42
+
+========== Sat May 23 16:13:38 UTC 2026 ==========
+total=53 famssm=12 cross=2 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_famssm_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_s2mamba_s42.json
+/root/freqtta-hsi/results/indomain_Salinas_hybridsn_s44.json
+master log tail:
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_hybridsn_s44.pt"
+}
+[RUN ] cross_S1_PaviaC2U_famssm_s42
+
+========== Sat May 23 16:23:38 UTC 2026 ==========
+total=54 famssm=12 cross=3 abl=0 master=S
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_famssm_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_famssm_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_s2mamba_s42.json
+master log tail:
+}
+[SKIP] cross_S1_PaviaC2U_s2mamba_s42 already done
+[RUN ] cross_S1_PaviaC2U_spectralformer_s42
+
+========== Sat May 23 16:33:38 UTC 2026 ==========
+total=56 famssm=12 cross=5 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_famssm_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 16:43:38 UTC 2026 ==========
+total=55 famssm=12 cross=4 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_famssm_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 16:53:39 UTC 2026 ==========
+total=55 famssm=12 cross=4 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_famssm_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 17:03:39 UTC 2026 ==========
+total=56 famssm=12 cross=5 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_famssm_s43.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 17:13:39 UTC 2026 ==========
+total=56 famssm=12 cross=5 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_famssm_s43.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 17:23:39 UTC 2026 ==========
+total=61 famssm=12 cross=10 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s43.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 17:33:39 UTC 2026 ==========
+total=60 famssm=12 cross=9 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s43.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s43.json
+/root/freqtta-hsi/results/cross_P2_PaviaC_split_famssm_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 17:43:39 UTC 2026 ==========
+total=61 famssm=12 cross=10 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_famssm_s43.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s43.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 17:53:39 UTC 2026 ==========
+total=63 famssm=12 cross=12 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_s2mamba_s43.json
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_famssm_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 18:03:39 UTC 2026 ==========
+total=65 famssm=12 cross=14 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s43.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s43.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_s2mamba_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 18:13:39 UTC 2026 ==========
+total=65 famssm=12 cross=14 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s43.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s43.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_s2mamba_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 18:23:39 UTC 2026 ==========
+total=66 famssm=12 cross=15 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_famssm_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s43.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 18:33:39 UTC 2026 ==========
+total=69 famssm=12 cross=18 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s44.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_s2mamba_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 18:43:39 UTC 2026 ==========
+total=69 famssm=12 cross=18 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s44.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_s2mamba_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 18:53:39 UTC 2026 ==========
+total=69 famssm=12 cross=18 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s44.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_s2mamba_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 19:03:39 UTC 2026 ==========
+total=70 famssm=12 cross=19 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_famssm_s44.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S1_PaviaC2U_spectralformer_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 19:13:39 UTC 2026 ==========
+total=73 famssm=12 cross=22 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_s2mamba_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 19:23:39 UTC 2026 ==========
+total=73 famssm=12 cross=22 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_s2mamba_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 19:33:39 UTC 2026 ==========
+total=73 famssm=12 cross=22 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_s2mamba_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 19:43:40 UTC 2026 ==========
+total=73 famssm=12 cross=22 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_s2mamba_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 19:53:40 UTC 2026 ==========
+total=73 famssm=12 cross=22 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_s2mamba_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 20:03:40 UTC 2026 ==========
+total=73 famssm=12 cross=22 abl=0 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_s2mamba_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 20:13:40 UTC 2026 ==========
+total=74 famssm=12 cross=22 abl=1 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 20:23:40 UTC 2026 ==========
+total=74 famssm=12 cross=22 abl=1 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 20:33:40 UTC 2026 ==========
+total=74 famssm=12 cross=22 abl=1 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 20:43:40 UTC 2026 ==========
+total=74 famssm=12 cross=22 abl=1 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 20:53:40 UTC 2026 ==========
+total=74 famssm=12 cross=22 abl=1 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_spectralformer_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 21:03:40 UTC 2026 ==========
+total=75 famssm=12 cross=22 abl=2 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 21:13:40 UTC 2026 ==========
+total=75 famssm=12 cross=22 abl=2 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 21:23:40 UTC 2026 ==========
+total=75 famssm=12 cross=22 abl=2 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 21:33:40 UTC 2026 ==========
+total=75 famssm=12 cross=22 abl=2 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 21:43:40 UTC 2026 ==========
+total=75 famssm=12 cross=22 abl=2 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 21:53:40 UTC 2026 ==========
+total=75 famssm=12 cross=22 abl=2 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+/root/freqtta-hsi/results/cross_S2_PaviaC_noise_hybridsn_s44.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 22:03:40 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 22:13:40 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 22:23:40 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 22:33:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 22:43:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 22:53:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 23:03:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 23:13:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 23:23:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 23:33:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 23:43:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sat May 23 23:53:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 00:03:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 00:13:41 UTC 2026 ==========
+total=76 famssm=12 cross=22 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 00:23:41 UTC 2026 ==========
+total=74 famssm=12 cross=20 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s42.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 00:33:41 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 00:43:41 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 00:53:41 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 01:03:41 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 01:13:41 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 01:23:42 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 01:33:42 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 01:43:42 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 01:53:42 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 02:03:42 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 02:13:42 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 02:23:42 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 02:33:43 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 02:43:43 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 02:53:43 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 03:03:43 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 03:13:43 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 03:23:43 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 03:33:44 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 03:43:44 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 03:53:44 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 04:03:44 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 04:13:44 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 04:23:44 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 04:33:44 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 04:43:44 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 04:53:45 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 05:03:45 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 05:13:45 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 05:23:47 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 05:33:47 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 05:43:50 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 05:53:50 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 06:03:50 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 06:13:50 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 06:23:52 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+
+========== Sun May 24 06:33:52 UTC 2026 ==========
+total=75 famssm=12 cross=21 abl=3 master=DEAD
+newest results:
+/root/freqtta-hsi/results/cross_D1_PaviaU_noise_famssm_s42.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s44.json
+/root/freqtta-hsi/results/ablation_P2_PaviaC_split_s43.json
+master log tail:
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42
+

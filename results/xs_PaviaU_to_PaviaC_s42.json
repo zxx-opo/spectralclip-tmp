@@ -1,0 +1,11 @@
+{
+  "OA": 0.48272086395680214,
+  "AA": 0.1924719217204539,
+  "kappa": 0.33591005214483716,
+  "dataset": "PaviaC",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "PaviaC"
+}

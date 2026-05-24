@@ -1,0 +1,23 @@
+{
+  "tag": "finetune_PaviaC_s42",
+  "dataset": "PaviaC",
+  "seed": 42,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s42.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_PaviaC_s42.pt",
+  "best_va_oa": 0.9750202538482312,
+  "epochs_run": 40,
+  "test_OA": 0.9751387430628469,
+  "test_AA": 0.8885877028614915,
+  "test_kappa": 0.9647731110262049,
+  "per_class": [
+    0.9999494719822142,
+    0.9663644340450425,
+    0.7810927390366643,
+    0.36450144807612744,
+    0.9826189672629092,
+    0.9808986064392119,
+    0.9295624332977588,
+    0.9946295143212951,
+    0.9976717112922002
+  ]
+}

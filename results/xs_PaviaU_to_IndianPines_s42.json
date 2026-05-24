@@ -1,0 +1,11 @@
+{
+  "OA": 0.2105149051490515,
+  "AA": 0.10271644048164953,
+  "kappa": 0.10531244909297632,
+  "dataset": "IndianPines",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "IndianPines"
+}

@@ -1,0 +1,870 @@
+[RUN ] indomain_PaviaU_famssm_s42
+{
+  "tag": "indomain_PaviaU_famssm_s42",
+  "dataset": "PaviaU",
+  "model": "famssm",
+  "seed": 42,
+  "epochs_run": 60,
+  "best_va_oa": 0.972391202620496,
+  "test_OA": 0.9747026128512805,
+  "test_AA": 0.9686554043514088,
+  "test_kappa": 0.9665086990106627,
+  "per_class": [
+    0.9689961454667337,
+    0.9861781352397975,
+    0.8512440444679725,
+    0.9844089920232052,
+    0.9975227085053675,
+    0.9655400927766733,
+    0.9799666110183639,
+    0.9852142426071213,
+    0.9988276670574443
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_famssm_s42.pt"
+}
+[SKIP] indomain_PaviaU_s2mamba_s42 already done
+[SKIP] indomain_PaviaU_spectralformer_s42 already done
+[SKIP] indomain_PaviaU_hybridsn_s42 already done
+[RUN ] indomain_PaviaC_famssm_s42
+{
+  "tag": "indomain_PaviaC_famssm_s42",
+  "dataset": "PaviaC",
+  "model": "famssm",
+  "seed": 42,
+  "epochs_run": 58,
+  "best_va_oa": 0.9940588711855253,
+  "test_OA": 0.9939178041097945,
+  "test_AA": 0.9775660398994348,
+  "test_kappa": 0.9913867424161016,
+  "per_class": [
+    0.9997305172384754,
+    0.987130739982451,
+    0.9230769230769231,
+    0.9321472900289616,
+    0.9849814377320284,
+    0.9896684286400769,
+    0.986278396096966,
+    0.9985730593607306,
+    0.9965075669383003
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_famssm_s42.pt"
+}
+[SKIP] indomain_PaviaC_s2mamba_s42 already done
+[SKIP] indomain_PaviaC_spectralformer_s42 already done
+[SKIP] indomain_PaviaC_hybridsn_s42 already done
+[RUN ] indomain_IndianPines_famssm_s42
+{
+  "tag": "indomain_IndianPines_famssm_s42",
+  "dataset": "IndianPines",
+  "model": "famssm",
+  "seed": 42,
+  "epochs_run": 60,
+  "best_va_oa": 0.81640625,
+  "test_OA": 0.8126829268292682,
+  "test_AA": 0.6928315069882212,
+  "test_kappa": 0.7860698553157288,
+  "per_class": [
+    0.2619047619047619,
+    0.6570762052877138,
+    0.8002680965147453,
+    0.7887323943661971,
+    0.8666666666666667,
+    0.9848024316109423,
+    0.0,
+    0.9976744186046511,
+    0.05555555555555555,
+    0.7551487414187643,
+    0.8297872340425532,
+    0.6604127579737336,
+    0.9945945945945946,
+    0.9841966637401229,
+    0.5689655172413793,
+    0.8795180722891566
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_IndianPines_famssm_s42.pt"
+}
+[SKIP] indomain_IndianPines_s2mamba_s42 already done
+[SKIP] indomain_IndianPines_spectralformer_s42 already done
+[SKIP] indomain_IndianPines_hybridsn_s42 already done
+[RUN ] indomain_Salinas_famssm_s42
+{
+  "tag": "indomain_Salinas_famssm_s42",
+  "dataset": "Salinas",
+  "model": "famssm",
+  "seed": 42,
+  "epochs_run": 60,
+  "best_va_oa": 0.967849223946785,
+  "test_OA": 0.9622924235893014,
+  "test_AA": 0.9807274420684551,
+  "test_kappa": 0.9580349224091321,
+  "per_class": [
+    0.9552238805970149,
+    0.9988073941562313,
+    0.9966254218222722,
+    0.992822966507177,
+    0.9962655601659751,
+    0.9974740387314062,
+    1.0,
+    0.9075224292615597,
+    1.0,
+    0.9901694915254238,
+    0.9937629937629938,
+    0.992507204610951,
+    0.9963592233009708,
+    1.0,
+    0.893151941302354,
+    0.9809465273509527
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_famssm_s42.pt"
+}
+[SKIP] indomain_Salinas_s2mamba_s42 already done
+[SKIP] indomain_Salinas_spectralformer_s42 already done
+[SKIP] indomain_Salinas_hybridsn_s42 already done
+[RUN ] indomain_PaviaU_famssm_s43
+{
+  "tag": "indomain_PaviaU_famssm_s43",
+  "dataset": "PaviaU",
+  "model": "famssm",
+  "seed": 43,
+  "epochs_run": 60,
+  "best_va_oa": 0.9808142255498362,
+  "test_OA": 0.9825463612279881,
+  "test_AA": 0.9761374241085764,
+  "test_kappa": 0.9768782856098619,
+  "per_class": [
+    0.9783810960281548,
+    0.9928507596067918,
+    0.9142403388035998,
+    0.9818709209572154,
+    1.0,
+    0.979456593770709,
+    0.9716193656093489,
+    0.9773687386843694,
+    0.9894490035169988
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_famssm_s43.pt"
+}
+[SKIP] indomain_PaviaU_s2mamba_s43 already done
+[SKIP] indomain_PaviaU_spectralformer_s43 already done
+[SKIP] indomain_PaviaU_hybridsn_s43 already done
+[RUN ] indomain_PaviaC_famssm_s43
+{
+  "tag": "indomain_PaviaC_famssm_s43",
+  "dataset": "PaviaC",
+  "model": "famssm",
+  "seed": 43,
+  "epochs_run": 54,
+  "best_va_oa": 0.9951390764245207,
+  "test_OA": 0.9951327433628319,
+  "test_AA": 0.9858112386205387,
+  "test_kappa": 0.9931075498765785,
+  "per_class": [
+    0.9997810452562612,
+    0.9726528224627083,
+    0.9766355140186916,
+    0.9689697972693422,
+    0.9895376307796152,
+    0.9914704469005285,
+    0.9754535752401281,
+    0.9997405562474055,
+    0.9980597594101669
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_famssm_s43.pt"
+}
+[SKIP] indomain_PaviaC_s2mamba_s43 already done
+[SKIP] indomain_PaviaC_spectralformer_s43 already done
+[SKIP] indomain_PaviaC_hybridsn_s43 already done
+[RUN ] indomain_IndianPines_famssm_s43
+{
+  "tag": "indomain_IndianPines_famssm_s43",
+  "dataset": "IndianPines",
+  "model": "famssm",
+  "seed": 43,
+  "epochs_run": 60,
+  "best_va_oa": 0.83203125,
+  "test_OA": 0.813550135501355,
+  "test_AA": 0.7051088793612882,
+  "test_kappa": 0.7864382228176822,
+  "per_class": [
+    0.2619047619047619,
+    0.7153965785381027,
+    0.8002680965147453,
+    0.6103286384976526,
+    0.8689655172413793,
+    0.9179331306990881,
+    0.11538461538461539,
+    0.9744186046511628,
+    0.1111111111111111,
+    0.7059496567505721,
+    0.8392937980986872,
+    0.626641651031895,
+    0.9945945945945946,
+    0.961369622475856,
+    0.7902298850574713,
+    0.9879518072289156
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_IndianPines_famssm_s43.pt"
+}
+[SKIP] indomain_IndianPines_s2mamba_s43 already done
+[SKIP] indomain_IndianPines_spectralformer_s43 already done
+[SKIP] indomain_IndianPines_hybridsn_s43 already done
+[RUN ] indomain_Salinas_famssm_s43
+{
+  "tag": "indomain_Salinas_famssm_s43",
+  "dataset": "Salinas",
+  "model": "famssm",
+  "seed": 43,
+  "epochs_run": 60,
+  "best_va_oa": 0.9700665188470067,
+  "test_OA": 0.9643861485723669,
+  "test_AA": 0.9802381306751973,
+  "test_kappa": 0.9603087718894238,
+  "per_class": [
+    0.9878385848535103,
+    0.9928443649373881,
+    0.9960629921259843,
+    0.9912280701754386,
+    0.9950207468879668,
+    0.9980353634577603,
+    1.0,
+    0.9486345262742778,
+    0.99892530897367,
+    0.9810169491525423,
+    0.9916839916839917,
+    1.0,
+    1.0,
+    0.9927234927234927,
+    0.8485172730051972,
+    0.9612784265519361
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_famssm_s43.pt"
+}
+[SKIP] indomain_Salinas_s2mamba_s43 already done
+[SKIP] indomain_Salinas_spectralformer_s43 already done
+[SKIP] indomain_Salinas_hybridsn_s43 already done
+[RUN ] indomain_PaviaU_famssm_s44
+{
+  "tag": "indomain_PaviaU_famssm_s44",
+  "dataset": "PaviaU",
+  "model": "famssm",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.9766027140851661,
+  "test_OA": 0.9736377331047738,
+  "test_AA": 0.9642928561141437,
+  "test_kappa": 0.9650285587043159,
+  "per_class": [
+    0.9762024467906821,
+    0.9886207923741436,
+    0.86500794070937,
+    0.9720812182741116,
+    1.0,
+    0.953611663353214,
+    0.9457429048414023,
+    0.9773687386843694,
+    1.0
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_famssm_s44.pt"
+}
+[RUN ] indomain_PaviaU_s2mamba_s44
+{
+  "tag": "indomain_PaviaU_s2mamba_s44",
+  "dataset": "PaviaU",
+  "model": "s2mamba",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.9695835283107159,
+  "test_OA": 0.9687808425536336,
+  "test_AA": 0.9583208243245878,
+  "test_kappa": 0.9586120240093418,
+  "per_class": [
+    0.9626277861571979,
+    0.990110217456062,
+    0.8681842244573849,
+    0.990572878897752,
+    1.0,
+    0.9454384802297328,
+    0.9307178631051753,
+    0.9372359686179843,
+    1.0
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_s2mamba_s44.pt"
+}
+[RUN ] indomain_PaviaU_spectralformer_s44
+{
+  "tag": "indomain_PaviaU_spectralformer_s44",
+  "dataset": "PaviaU",
+  "model": "spectralformer",
+  "seed": 44,
+  "epochs_run": 57,
+  "best_va_oa": 0.9078146934955545,
+  "test_OA": 0.9122642979585476,
+  "test_AA": 0.8747807578091176,
+  "test_kappa": 0.8829252836436028,
+  "per_class": [
+    0.9299480475951064,
+    0.977956508787608,
+    0.7120169401799894,
+    0.919869470630892,
+    0.9917423616845582,
+    0.8069361608129004,
+    0.7212020033388982,
+    0.8180446590223295,
+    0.9953106682297772
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_spectralformer_s44.pt"
+}
+[RUN ] indomain_PaviaU_hybridsn_s44
+{
+  "tag": "indomain_PaviaU_hybridsn_s44",
+  "dataset": "PaviaU",
+  "model": "hybridsn",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.984089845577913,
+  "test_OA": 0.9871954703651759,
+  "test_AA": 0.9819506609578215,
+  "test_kappa": 0.9830259398964485,
+  "per_class": [
+    0.9795542148483325,
+    0.9973786118558237,
+    0.9708840656431975,
+    0.9836838288614939,
+    1.0,
+    0.9865252926883146,
+    0.9524207011686143,
+    0.9671092335546168,
+    1.0
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaU_hybridsn_s44.pt"
+}
+[RUN ] indomain_PaviaC_famssm_s44
+{
+  "tag": "indomain_PaviaC_famssm_s44",
+  "dataset": "PaviaC",
+  "model": "famssm",
+  "seed": 44,
+  "epochs_run": 41,
+  "best_va_oa": 0.9945989738050229,
+  "test_OA": 0.993662816859157,
+  "test_AA": 0.9840250770825766,
+  "test_kappa": 0.9910272743898714,
+  "per_class": [
+    0.9998652586192377,
+    0.967388125182802,
+    0.9647735442127966,
+    0.9958626396359123,
+    0.9822814714816065,
+    0.9960355598270062,
+    0.9525842354017381,
+    0.9985990037359901,
+    0.9988358556461001
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_famssm_s44.pt"
+}
+[RUN ] indomain_PaviaC_s2mamba_s44
+{
+  "tag": "indomain_PaviaC_s2mamba_s44",
+  "dataset": "PaviaC",
+  "model": "s2mamba",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.9940588711855253,
+  "test_OA": 0.9944352782360882,
+  "test_AA": 0.9831685463081479,
+  "test_kappa": 0.9921194875657902,
+  "per_class": [
+    1.0,
+    0.9711904065516233,
+    0.9604601006470166,
+    0.9623500206868019,
+    0.9858251771852852,
+    0.9869053339740509,
+    0.9827717639884128,
+    0.9990141137401412,
+    1.0
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_s2mamba_s44.pt"
+}
+[RUN ] indomain_PaviaC_spectralformer_s44
+{
+  "tag": "indomain_PaviaC_spectralformer_s44",
+  "dataset": "PaviaC",
+  "model": "spectralformer",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.9924385633270322,
+  "test_OA": 0.9906629668516574,
+  "test_AA": 0.9770401906881643,
+  "test_kappa": 0.9867744097321334,
+  "per_class": [
+    0.9998315732740471,
+    0.9745539631471191,
+    0.9378145219266715,
+    0.9755895738518825,
+    0.9880188997637529,
+    0.9526669870254685,
+    0.972556792193932,
+    0.9954337899543378,
+    0.996895615056267
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_spectralformer_s44.pt"
+}
+[RUN ] indomain_PaviaC_hybridsn_s44
+{
+  "tag": "indomain_PaviaC_hybridsn_s44",
+  "dataset": "PaviaC",
+  "model": "hybridsn",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.9966243586281394,
+  "test_OA": 0.9955902204889755,
+  "test_AA": 0.9881963602371955,
+  "test_kappa": 0.9937546368701223,
+  "per_class": [
+    1.0,
+    0.9779175197426148,
+    0.9766355140186916,
+    0.9834505585436492,
+    0.9875126560917988,
+    0.9845026429601154,
+    0.9844488489098948,
+    0.999299501867995,
+    1.0
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_hybridsn_s44.pt"
+}
+[RUN ] indomain_IndianPines_famssm_s44
+{
+  "tag": "indomain_IndianPines_famssm_s44",
+  "dataset": "IndianPines",
+  "model": "famssm",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.84375,
+  "test_OA": 0.8286178861788618,
+  "test_AA": 0.7221458810864645,
+  "test_kappa": 0.8037242442258513,
+  "per_class": [
+    0.6904761904761905,
+    0.8157076205287714,
+    0.6621983914209115,
+    0.4272300469483568,
+    0.7977011494252874,
+    0.9832826747720365,
+    0.0,
+    0.9976744186046511,
+    0.1111111111111111,
+    0.7688787185354691,
+    0.8469895880488909,
+    0.6679174484052532,
+    0.972972972972973,
+    0.9569798068481123,
+    0.8793103448275862,
+    0.9759036144578314
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_IndianPines_famssm_s44.pt"
+}
+[RUN ] indomain_IndianPines_s2mamba_s44
+{
+  "tag": "indomain_IndianPines_s2mamba_s44",
+  "dataset": "IndianPines",
+  "model": "s2mamba",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.857421875,
+  "test_OA": 0.8378319783197832,
+  "test_AA": 0.7226360895358861,
+  "test_kappa": 0.8136499450554547,
+  "per_class": [
+    0.35714285714285715,
+    0.776049766718507,
+    0.725201072386059,
+    0.6150234741784038,
+    0.7517241379310344,
+    0.9422492401215805,
+    0.07692307692307693,
+    0.9930232558139535,
+    0.2777777777777778,
+    0.7860411899313501,
+    0.9148936170212766,
+    0.6303939962476548,
+    0.9513513513513514,
+    0.9350307287093942,
+    0.853448275862069,
+    0.9759036144578314
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_IndianPines_s2mamba_s44.pt"
+}
+[RUN ] indomain_IndianPines_spectralformer_s44
+{
+  "tag": "indomain_IndianPines_spectralformer_s44",
+  "dataset": "IndianPines",
+  "model": "spectralformer",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.59765625,
+  "test_OA": 0.5834146341463414,
+  "test_AA": 0.40835958597022415,
+  "test_kappa": 0.5196113759703239,
+  "per_class": [
+    0.0,
+    0.4968895800933126,
+    0.30563002680965146,
+    0.07511737089201878,
+    0.5149425287356322,
+    0.7325227963525835,
+    0.0,
+    0.7767441860465116,
+    0.0,
+    0.4919908466819222,
+    0.7224988682661838,
+    0.24577861163227016,
+    0.7567567567567568,
+    0.8788410886742757,
+    0.4396551724137931,
+    0.0963855421686747
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_IndianPines_spectralformer_s44.pt"
+}
+[RUN ] indomain_IndianPines_hybridsn_s44
+{
+  "tag": "indomain_IndianPines_hybridsn_s44",
+  "dataset": "IndianPines",
+  "model": "hybridsn",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.875,
+  "test_OA": 0.8534417344173442,
+  "test_AA": 0.7730622159619491,
+  "test_kappa": 0.8328374695612126,
+  "per_class": [
+    0.40476190476190477,
+    0.8475894245723172,
+    0.8123324396782842,
+    0.6291079812206573,
+    0.9057471264367816,
+    0.9376899696048632,
+    0.15384615384615385,
+    0.9813953488372092,
+    0.5555555555555556,
+    0.8020594965675057,
+    0.8415572657311,
+    0.7317073170731707,
+    0.9675675675675676,
+    0.9209833187006146,
+    0.9252873563218391,
+    0.9518072289156626
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_IndianPines_hybridsn_s44.pt"
+}
+[RUN ] indomain_Salinas_famssm_s44
+{
+  "tag": "indomain_Salinas_famssm_s44",
+  "dataset": "Salinas",
+  "model": "famssm",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.9619364375461936,
+  "test_OA": 0.960855553502884,
+  "test_AA": 0.9756563375924912,
+  "test_kappa": 0.9563899833576697,
+  "per_class": [
+    0.996130458817026,
+    0.9731663685152058,
+    1.0,
+    0.9872408293460925,
+    0.9941908713692946,
+    1.0,
+    0.9981372244644521,
+    0.9364093463472345,
+    0.9987461938026151,
+    0.971864406779661,
+    0.9916839916839917,
+    1.0,
+    0.9502427184466019,
+    0.998960498960499,
+    0.8604402323448487,
+    0.9532882606023356
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_famssm_s44.pt"
+}
+[RUN ] indomain_Salinas_s2mamba_s44
+{
+  "tag": "indomain_Salinas_s2mamba_s44",
+  "dataset": "Salinas",
+  "model": "s2mamba",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.9530672579453068,
+  "test_OA": 0.9574481187265226,
+  "test_AA": 0.9774233788364848,
+  "test_kappa": 0.95261104158937,
+  "per_class": [
+    0.9988944168048646,
+    0.9701848539057841,
+    0.9988751406074241,
+    0.9904306220095693,
+    0.9892116182572614,
+    1.0,
+    0.998758149642968,
+    0.9230996746524697,
+    0.999462654486835,
+    0.9545762711864407,
+    0.9885654885654885,
+    0.9976945244956772,
+    0.9902912621359223,
+    0.9937629937629938,
+    0.8517273005197188,
+    0.9932390903503381
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_s2mamba_s44.pt"
+}
+[RUN ] indomain_Salinas_spectralformer_s44
+{
+  "tag": "indomain_Salinas_spectralformer_s44",
+  "dataset": "Salinas",
+  "model": "spectralformer",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.9194382852919438,
+  "test_OA": 0.9162099472463411,
+  "test_AA": 0.947760988032581,
+  "test_kappa": 0.9065850326462169,
+  "per_class": [
+    0.9917081260364843,
+    0.9836016696481813,
+    0.9707536557930259,
+    0.9617224880382775,
+    0.9601659751037345,
+    0.9994386752736458,
+    0.997826761875194,
+    0.8545795129646061,
+    0.9856707863156009,
+    0.9589830508474576,
+    0.972972972972973,
+    0.9953890489913545,
+    0.9587378640776699,
+    0.9428274428274428,
+    0.7140018343014368,
+    0.9157959434542102
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_spectralformer_s44.pt"
+}
+[RUN ] indomain_Salinas_hybridsn_s44
+{
+  "tag": "indomain_Salinas_hybridsn_s44",
+  "dataset": "Salinas",
+  "model": "hybridsn",
+  "seed": 44,
+  "epochs_run": 60,
+  "best_va_oa": 0.9855875831485588,
+  "test_OA": 0.9858160395755076,
+  "test_AA": 0.9912520285984833,
+  "test_kappa": 0.9842079673322027,
+  "per_class": [
+    1.0,
+    0.9931425163983304,
+    1.0,
+    0.9960127591706539,
+    0.9883817427385893,
+    1.0,
+    0.9972058366966781,
+    0.9706201321108153,
+    1.0,
+    0.9664406779661017,
+    0.9885654885654885,
+    1.0,
+    0.9951456310679612,
+    1.0,
+    0.9682054417609294,
+    0.9963122311001844
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_Salinas_hybridsn_s44.pt"
+}
+[RUN ] cross_S1_PaviaC2U_famssm_s42
+{
+  "tag": "cross_S1_PaviaC2U_famssm_s42",
+  "pair": "S1_PaviaC2U",
+  "model": "famssm",
+  "seed": 42,
+  "src_epochs_run": 58,
+  "src_best_va_oa": 0.9944639481501485,
+  "src_ckpt": "/root/freqtta-hsi/checkpoints/cross_S1_PaviaC2U_famssm_s42_src.pt",
+  "tta": {
+    "source_only": {
+      "OA": 0.1874,
+      "AA": 0.18732450005557888,
+      "kappa": 0.04285593132497201,
+      "per_class": [
+        0.0,
+        0.3472998137802607,
+        0.0,
+        0.0,
+        0.075,
+        0.0,
+        0.46987951807228917,
+        0.048458149779735685,
+        0.7452830188679245
+      ]
+    },
+    "tent": {
+      "OA": 0.1878,
+      "AA": 0.18742795546629687,
+      "kappa": 0.04309922559134871,
+      "per_class": [
+        0.0,
+        0.34823091247672255,
+        0.0,
+        0.0,
+        0.075,
+        0.0,
+        0.46987951807228917,
+        0.048458149779735685,
+        0.7452830188679245
+      ]
+    },
+    "eata": {
+      "OA": 0.188,
+      "AA": 0.18747968317165586,
+      "kappa": 0.043262987869894354,
+      "per_class": [
+        0.0,
+        0.34869646182495345,
+        0.0,
+        0.0,
+        0.075,
+        0.0,
+        0.46987951807228917,
+        0.048458149779735685,
+        0.7452830188679245
+      ]
+    },
+    "cotta_lite": {
+      "OA": 0.188,
+      "AA": 0.18747968317165586,
+      "kappa": 0.04324477079066824,
+      "per_class": [
+        0.0,
+        0.34869646182495345,
+        0.0,
+        0.0,
+        0.075,
+        0.0,
+        0.46987951807228917,
+        0.048458149779735685,
+        0.7452830188679245
+      ]
+    },
+    "smtta": {
+      "OA": 0.1882,
+      "AA": 0.18772442130185654,
+      "kappa": 0.04349151471637458,
+      "per_class": [
+        0.0,
+        0.34869646182495345,
+        0.0,
+        0.0,
+        0.075,
+        0.0,
+        0.46987951807228917,
+        0.05066079295154185,
+        0.7452830188679245
+      ]
+    },
+    "phitta": {
+      "OA": 0.1908,
+      "AA": 0.18536819891272704,
+      "kappa": 0.04411085819188476,
+      "per_class": [
+        0.0,
+        0.35661080074487894,
+        0.0,
+        0.0,
+        0.05625,
+        0.0016778523489932886,
+        0.4578313253012048,
+        0.05066079295154185,
+        0.7452830188679245
+      ]
+    }
+  }
+}
+[SKIP] cross_S1_PaviaC2U_s2mamba_s42 already done
+[RUN ] cross_S1_PaviaC2U_spectralformer_s42
+{
+  "tag": "cross_S1_PaviaC2U_spectralformer_s42",
+  "pair": "S1_PaviaC2U",
+  "model": "spectralformer",
+  "seed": 42,
+  "src_epochs_run": 60,
+  "src_best_va_oa": 0.9882527680259249,
+  "src_ckpt": "/root/freqtta-hsi/checkpoints/cross_S1_PaviaC2U_spectralformer_s42_src.pt",
+  "tta": {
+    "source_only": {
+      "OA": 0.1968,
+      "AA": 0.2273069772226052,
+      "kappa": 0.05726566478921069,
+      "per_class": [
+        0.07441253263707572,
+        0.2737430167597765,
+        0.0,
+        0.0,
+        0.0,
+        0.18959731543624161,
+        0.7831325301204819,
+        0.05506607929515418,
+        0.6698113207547169
+      ]
+    },
+    "tent": {
+      "OA": 0.197,
+      "AA": 0.22735870492796423,
+      "kappa": 0.05737056394830964,
+      "per_class": [
+        0.07441253263707572,
+        0.2742085661080074,
+        0.0,
+        0.0,
+        0.0,
+        0.18959731543624161,
+        0.7831325301204819,
+        0.05506607929515418,
+        0.6698113207547169
+      ]
+    },
+    "eata": {
+      "OA": 0.197,
+      "AA": 0.22735870492796423,
+      "kappa": 0.05737056394830964,
+      "per_class": [
+        0.07441253263707572,
+        0.2742085661080074,
+        0.0,
+        0.0,
+        0.0,
+        0.18959731543624161,
+        0.7831325301204819,
+        0.05506607929515418,
+        0.6698113207547169
+      ]
+    },
+    "cotta_lite": {
+      "OA": 0.197,
+      "AA": 0.22735870492796423,
+      "kappa": 0.05735153110528646,
+      "per_class": [
+        0.07441253263707572,
+        0.2742085661080074,
+        0.0,
+        0.0,
+        0.0,
+        0.18959731543624161,
+        0.7831325301204819,
+        0.05506607929515418,
+        0.6698113207547169
+      ]
+    }
+  }
+}
+[RUN ] cross_S1_PaviaC2U_hybridsn_s42

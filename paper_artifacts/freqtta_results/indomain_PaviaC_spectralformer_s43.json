@@ -1,0 +1,23 @@
+{
+  "tag": "indomain_PaviaC_spectralformer_s43",
+  "dataset": "PaviaC",
+  "model": "spectralformer",
+  "seed": 43,
+  "epochs_run": 40,
+  "best_va_oa": 0.986362408857683,
+  "test_OA": 0.985863206839658,
+  "test_AA": 0.9654406736029687,
+  "test_kappa": 0.9799732551961776,
+  "per_class": [
+    0.9999326293096189,
+    0.9603685288095934,
+    0.9277498202731848,
+    0.9437318990484072,
+    0.971481606479919,
+    0.9442575684766938,
+    0.9507546882146669,
+    0.9918534661685346,
+    0.9988358556461001
+  ],
+  "ckpt": "/root/freqtta-hsi/checkpoints/indomain_PaviaC_spectralformer_s43.pt"
+}

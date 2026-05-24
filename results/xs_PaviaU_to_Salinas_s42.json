@@ -1,0 +1,11 @@
+{
+  "OA": 0.10862737853316091,
+  "AA": 0.1803237453094561,
+  "kappa": 0.06577027680724346,
+  "dataset": "Salinas",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "Salinas"
+}

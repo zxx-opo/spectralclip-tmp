@@ -1,0 +1,8 @@
+{
+  "tag": "pretrain_s42",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s42.pt",
+  "n_pairs": 9387,
+  "n_captions": 50,
+  "seed": 42,
+  "epochs": 60
+}

@@ -1,0 +1,1496 @@
+[pretrain] Building corpus loader (per_class=200)...
+[pretrain] 9387 (spectrum,caption) pairs, 50 unique captions across 4 datasets.
+[pretrain] Encoding captions with sentence-transformer...
+[pretrain] text_emb shape=(50, 768)
+  [pretrain_s43] ep5/60 loss=1.8147 nce=1.8063 phys=0.0420 scale=14.59 t=164.9s
+  [pretrain_s43] ep10/60 loss=1.5825 nce=1.5754 phys=0.0356 scale=14.78 t=326.3s
+  [pretrain_s43] ep15/60 loss=1.4676 nce=1.4613 phys=0.0317 scale=14.98 t=489.5s
+  [pretrain_s43] ep20/60 loss=1.4112 nce=1.4053 phys=0.0294 scale=15.16 t=653.6s
+  [pretrain_s43] ep25/60 loss=1.3620 nce=1.3565 phys=0.0276 scale=15.34 t=816.5s
+  [pretrain_s43] ep30/60 loss=1.3128 nce=1.3075 phys=0.0264 scale=15.50 t=981.3s
+  [pretrain_s43] ep35/60 loss=1.2810 nce=1.2760 phys=0.0253 scale=15.64 t=1143.9s
+  [pretrain_s43] ep40/60 loss=1.2584 nce=1.2535 phys=0.0248 scale=15.76 t=1305.8s
+  [pretrain_s43] ep45/60 loss=1.2380 nce=1.2332 phys=0.0243 scale=15.86 t=1469.2s
+  [pretrain_s43] ep50/60 loss=1.2167 nce=1.2120 phys=0.0236 scale=15.92 t=1631.4s
+  [pretrain_s43] ep55/60 loss=1.2046 nce=1.1999 phys=0.0232 scale=15.95 t=1794.8s
+  [pretrain_s43] ep60/60 loss=1.2020 nce=1.1974 phys=0.0233 scale=15.95 t=1958.2s
+{
+  "tag": "pretrain_s43",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s43.pt",
+  "n_pairs": 9387,
+  "n_captions": 50,
+  "seed": 43,
+  "epochs": 60
+}
+[pretrain] Building corpus loader (per_class=200)...
+[pretrain] 9387 (spectrum,caption) pairs, 50 unique captions across 4 datasets.
+[pretrain] Encoding captions with sentence-transformer...
+[pretrain] text_emb shape=(50, 768)
+  [pretrain_s42] ep5/60 loss=1.6329 nce=1.6252 phys=0.0385 scale=14.59 t=169.4s
+  [pretrain_s42] ep10/60 loss=1.4496 nce=1.4429 phys=0.0336 scale=14.80 t=335.7s
+  [pretrain_s42] ep15/60 loss=1.3754 nce=1.3692 phys=0.0309 scale=14.96 t=502.0s
+  [pretrain_s42] ep20/60 loss=1.3498 nce=1.3439 phys=0.0295 scale=15.12 t=666.4s
+  [pretrain_s42] ep25/60 loss=1.2940 nce=1.2884 phys=0.0277 scale=15.28 t=831.5s
+  [pretrain_s42] ep30/60 loss=1.2462 nce=1.2409 phys=0.0264 scale=15.42 t=997.9s
+  [pretrain_s42] ep35/60 loss=1.2210 nce=1.2159 phys=0.0255 scale=15.57 t=1163.7s
+  [pretrain_s42] ep40/60 loss=1.1930 nce=1.1880 phys=0.0248 scale=15.70 t=1330.5s
+  [pretrain_s42] ep45/60 loss=1.1702 nce=1.1654 phys=0.0242 scale=15.80 t=1495.5s
+  [pretrain_s42] ep50/60 loss=1.1542 nce=1.1495 phys=0.0237 scale=15.85 t=1660.6s
+  [pretrain_s42] ep55/60 loss=1.1458 nce=1.1412 phys=0.0234 scale=15.88 t=1826.0s
+  [pretrain_s42] ep60/60 loss=1.1432 nce=1.1385 phys=0.0234 scale=15.89 t=1991.4s
+{
+  "tag": "pretrain_s42",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s42.pt",
+  "n_pairs": 9387,
+  "n_captions": 50,
+  "seed": 42,
+  "epochs": 60
+}
+[pretrain] Building corpus loader (per_class=200)...
+[pretrain] 9387 (spectrum,caption) pairs, 50 unique captions across 4 datasets.
+[pretrain] Encoding captions with sentence-transformer...
+[pretrain] text_emb shape=(50, 768)
+  [pretrain_s44] ep5/60 loss=1.6684 nce=1.6602 phys=0.0407 scale=14.58 t=164.1s
+  [pretrain_s44] ep10/60 loss=1.5186 nce=1.5116 phys=0.0351 scale=14.77 t=327.5s
+  [pretrain_s44] ep15/60 loss=1.4267 nce=1.4204 phys=0.0316 scale=14.97 t=488.9s
+  [pretrain_s44] ep20/60 loss=1.3647 nce=1.3588 phys=0.0295 scale=15.16 t=652.4s
+  [pretrain_s44] ep25/60 loss=1.3245 nce=1.3190 phys=0.0278 scale=15.32 t=815.0s
+  [pretrain_s44] ep30/60 loss=1.2901 nce=1.2848 phys=0.0264 scale=15.47 t=975.1s
+  [pretrain_s44] ep35/60 loss=1.2535 nce=1.2484 phys=0.0256 scale=15.60 t=1137.7s
+  [pretrain_s44] ep40/60 loss=1.2279 nce=1.2230 phys=0.0248 scale=15.71 t=1299.4s
+  [pretrain_s44] ep45/60 loss=1.2066 nce=1.2018 phys=0.0240 scale=15.79 t=1461.2s
+  [pretrain_s44] ep50/60 loss=1.1913 nce=1.1866 phys=0.0235 scale=15.85 t=1622.9s
+  [pretrain_s44] ep55/60 loss=1.1790 nce=1.1744 phys=0.0232 scale=15.87 t=1786.3s
+  [pretrain_s44] ep60/60 loss=1.1774 nce=1.1727 phys=0.0232 scale=15.88 t=1947.0s
+{
+  "tag": "pretrain_s44",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s44.pt",
+  "n_pairs": 9387,
+  "n_captions": 50,
+  "seed": 44,
+  "epochs": 60
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s42.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_PaviaU_s42",
+  "dataset": "PaviaU",
+  "seed": 42,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s42.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_PaviaU_s42.pt",
+  "best_va_oa": 0.8259241927936359,
+  "epochs_run": 40,
+  "test_OA": 0.8230221806659395,
+  "test_AA": 0.6959429239556713,
+  "test_kappa": 0.7544554547370869,
+  "per_class": [
+    0.9386626445449975,
+    0.991897527554364,
+    0.2599258867125463,
+    0.8038433647570703,
+    0.9884393063583815,
+    0.349679699580296,
+    0.0,
+    0.9357272178636089,
+    0.9953106682297772
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s42.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_PaviaC_s42",
+  "dataset": "PaviaC",
+  "seed": 42,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s42.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_PaviaC_s42.pt",
+  "best_va_oa": 0.9750202538482312,
+  "epochs_run": 40,
+  "test_OA": 0.9751387430628469,
+  "test_AA": 0.8885877028614915,
+  "test_kappa": 0.9647731110262049,
+  "per_class": [
+    0.9999494719822142,
+    0.9663644340450425,
+    0.7810927390366643,
+    0.36450144807612744,
+    0.9826189672629092,
+    0.9808986064392119,
+    0.9295624332977588,
+    0.9946295143212951,
+    0.9976717112922002
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s42.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_IndianPines_s42",
+  "dataset": "IndianPines",
+  "seed": 42,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s42.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_IndianPines_s42.pt",
+  "best_va_oa": 0.494140625,
+  "epochs_run": 40,
+  "test_OA": 0.48856368563685637,
+  "test_AA": 0.26274027508618136,
+  "test_kappa": 0.37372113083787795,
+  "per_class": [
+    0.0,
+    0.03576982892690513,
+    0.0,
+    0.0,
+    0.18620689655172415,
+    0.9635258358662614,
+    0.0,
+    0.9953488372093023,
+    0.0,
+    0.0,
+    0.9859665006790402,
+    0.016885553470919325,
+    0.032432432432432434,
+    0.9877085162423178,
+    0.0,
+    0.0
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s42.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_Salinas_s42",
+  "dataset": "Salinas",
+  "seed": 42,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s42.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_Salinas_s42.pt",
+  "best_va_oa": 0.8798965262379896,
+  "epochs_run": 40,
+  "test_OA": 0.8764496992836176,
+  "test_AA": 0.907209602174989,
+  "test_kappa": 0.8616176519917211,
+  "per_class": [
+    0.9839690436705362,
+    0.9961240310077519,
+    0.9493813273340832,
+    0.9936204146730463,
+    0.9730290456431535,
+    0.9966320516418748,
+    0.9941012108040981,
+    0.9127477077787637,
+    0.9978506179473401,
+    0.9030508474576271,
+    0.5893970893970893,
+    0.9671469740634006,
+    0.9733009708737864,
+    0.9293139293139293,
+    0.38764903699174563,
+    0.968039336201598
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s43.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_PaviaU_s43",
+  "dataset": "PaviaU",
+  "seed": 43,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s43.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_PaviaU_s43.pt",
+  "best_va_oa": 0.7927000467945718,
+  "epochs_run": 40,
+  "test_OA": 0.7911277336242273,
+  "test_AA": 0.6537537928111915,
+  "test_kappa": 0.7079639277218345,
+  "per_class": [
+    0.939165409753645,
+    0.9866547512660113,
+    0.02223398623610376,
+    0.8368382886149384,
+    0.9876135425268373,
+    0.1734040203225094,
+    0.0,
+    0.9390464695232348,
+    0.9988276670574443
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s43.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_PaviaC_s43",
+  "dataset": "PaviaC",
+  "seed": 43,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s43.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_PaviaC_s43.pt",
+  "best_va_oa": 0.9711045098568728,
+  "epochs_run": 40,
+  "test_OA": 0.9686665666716664,
+  "test_AA": 0.8575970698540575,
+  "test_kappa": 0.9555841797448761,
+  "per_class": [
+    1.0,
+    0.9381398069610998,
+    0.8393242271746945,
+    0.08316094331816301,
+    0.9861626729665879,
+    0.9602354637193657,
+    0.9161457539259034,
+    0.9967569530925695,
+    0.9984478075281334
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s43.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_IndianPines_s43",
+  "dataset": "IndianPines",
+  "seed": 43,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s43.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_IndianPines_s43.pt",
+  "best_va_oa": 0.48046875,
+  "epochs_run": 24,
+  "test_OA": 0.46688346883468834,
+  "test_AA": 0.23876627337486045,
+  "test_kappa": 0.3427917940884224,
+  "per_class": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0022988505747126436,
+    0.8632218844984803,
+    0.0,
+    0.9720930232558139,
+    0.0,
+    0.0,
+    0.9923042100497963,
+    0.0,
+    0.0,
+    0.990342405618964,
+    0.0,
+    0.0
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s43.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_Salinas_s43",
+  "dataset": "Salinas",
+  "seed": 43,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s43.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_Salinas_s43.pt",
+  "best_va_oa": 0.8418329637841833,
+  "epochs_run": 40,
+  "test_OA": 0.8366689246053739,
+  "test_AA": 0.8939089417666866,
+  "test_kappa": 0.8160095259807633,
+  "per_class": [
+    0.9812050856826976,
+    0.9970184853905785,
+    0.9274465691788526,
+    0.9808612440191388,
+    0.9676348547717842,
+    0.997193376368229,
+    0.9919279726792921,
+    0.9778172138420586,
+    0.9901486655919757,
+    0.8552542372881355,
+    0.8534303534303534,
+    0.9930835734870317,
+    0.9696601941747572,
+    0.8908523908523909,
+    0.0003057169061449098,
+    0.9287031346035648
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s44.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_PaviaU_s44",
+  "dataset": "PaviaU",
+  "seed": 44,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s44.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_PaviaU_s44.pt",
+  "best_va_oa": 0.7870846981750117,
+  "epochs_run": 40,
+  "test_OA": 0.791777050542829,
+  "test_AA": 0.6555587168361696,
+  "test_kappa": 0.7094720528067322,
+  "per_class": [
+    0.9277693983576336,
+    0.9865355972594578,
+    0.0,
+    0.9089920232052212,
+    0.9843104872006606,
+    0.17472940136956042,
+    0.0,
+    0.920036210018105,
+    0.9976553341148886
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s44.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_PaviaC_s44",
+  "dataset": "PaviaC",
+  "seed": 44,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s44.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_PaviaC_s44.pt",
+  "best_va_oa": 0.9755603564677289,
+  "epochs_run": 40,
+  "test_OA": 0.9734813259337033,
+  "test_AA": 0.8870129465771603,
+  "test_kappa": 0.9624166703249528,
+  "per_class": [
+    0.9999831573274047,
+    0.954518865165253,
+    0.7181883537023724,
+    0.44890359950351677,
+    0.9772190347620655,
+    0.950264296011533,
+    0.9388626314987041,
+    0.9959526774595268,
+    0.9992239037640668
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s44.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_IndianPines_s44",
+  "dataset": "IndianPines",
+  "seed": 44,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s44.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_IndianPines_s44.pt",
+  "best_va_oa": 0.486328125,
+  "epochs_run": 40,
+  "test_OA": 0.48476964769647696,
+  "test_AA": 0.24921232538532068,
+  "test_kappa": 0.36953002028783444,
+  "per_class": [
+    0.0,
+    0.12441679626749612,
+    0.0,
+    0.0,
+    0.0,
+    0.9194528875379939,
+    0.0,
+    0.9488372093023256,
+    0.0,
+    0.0,
+    0.9796287913082843,
+    0.009380863039399626,
+    0.016216216216216217,
+    0.9894644424934153,
+    0.0,
+    0.0
+  ]
+}
+[finetune] loaded /root/spectralclip-tmp/checkpoints/pretrain_s44.pt: missing=0 unexpected=0
+{
+  "tag": "finetune_Salinas_s44",
+  "dataset": "Salinas",
+  "seed": 44,
+  "pretrain_ckpt": "/root/spectralclip-tmp/checkpoints/pretrain_s44.pt",
+  "ckpt": "/root/spectralclip-tmp/checkpoints/finetune_Salinas_s44.pt",
+  "best_va_oa": 0.8473762010347377,
+  "epochs_run": 40,
+  "test_OA": 0.8434427407270563,
+  "test_AA": 0.8990128915294898,
+  "test_kappa": 0.8238299203154045,
+  "per_class": [
+    0.9762299613045882,
+    0.9973166368515206,
+    0.9347581552305961,
+    0.9848484848484849,
+    0.9788381742738589,
+    0.9941060903732809,
+    0.9934802856255821,
+    0.966479345361333,
+    0.9940891993551854,
+    0.8603389830508474,
+    0.8461538461538461,
+    0.9884726224783862,
+    0.9781553398058253,
+    0.8846153846153846,
+    0.05426475084072149,
+    0.9520590043023971
+  ]
+}
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s42.pt: missing=0 unexpected=0
+[text_encoder] Loading sentence-transformers/all-mpnet-base-v2 on cpu...
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 3114.83it/s]
+[text_encoder] Encoding 9 captions...
+[text_encoder] Cached -> /root/spectralclip-tmp/corpus/text_cache/emb_9b58a9b3c1fa412a.pt  shape=(9, 768)
+{
+  "OA": 0.7625837618824997,
+  "AA": 0.8603143682067869,
+  "kappa": 0.7030865168936382,
+  "dataset": "PaviaU",
+  "seed": 42,
+  "mode": "zero_shot",
+  "n_test": 38502
+}
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s42.pt: missing=0 unexpected=0
+[text_encoder] Loading sentence-transformers/all-mpnet-base-v2 on cpu...
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 4504.84it/s]
+[text_encoder] Encoding 9 captions...
+[text_encoder] Cached -> /root/spectralclip-tmp/corpus/text_cache/emb_f2eb8d378ee57cd2.pt  shape=(9, 768)
+{
+  "OA": 0.9764136793160342,
+  "AA": 0.9354464570117439,
+  "kappa": 0.9666314400084525,
+  "dataset": "PaviaC",
+  "seed": 42,
+  "mode": "zero_shot",
+  "n_test": 133340
+}
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s42.pt: missing=0 unexpected=0
+[text_encoder] Loading sentence-transformers/all-mpnet-base-v2 on cpu...
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 3202.69it/s]
+[text_encoder] Encoding 16 captions...
+[text_encoder] Cached -> /root/spectralclip-tmp/corpus/text_cache/emb_31cfbde09fedbc02.pt  shape=(16, 768)
+{
+  "OA": 0.7962059620596206,
+  "AA": 0.873508294822996,
+  "kappa": 0.7708570944846057,
+  "dataset": "IndianPines",
+  "seed": 42,
+  "mode": "zero_shot",
+  "n_test": 9225
+}
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s42.pt: missing=0 unexpected=0
+[text_encoder] Loading sentence-transformers/all-mpnet-base-v2 on cpu...
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 4001.18it/s]
+[text_encoder] Encoding 16 captions...
+[text_encoder] Cached -> /root/spectralclip-tmp/corpus/text_cache/emb_3444b8adcc241514.pt  shape=(16, 768)
+{
+  "OA": 0.8995217275283782,
+  "AA": 0.9544188344306797,
+  "kappa": 0.8883891377500044,
+  "dataset": "Salinas",
+  "seed": 42,
+  "mode": "zero_shot",
+  "n_test": 48717
+}
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s43.pt: missing=0 unexpected=0
+{
+  "OA": 0.7783751493428913,
+  "AA": 0.8564935287200323,
+  "kappa": 0.7184287103821636,
+  "dataset": "PaviaU",
+  "seed": 43,
+  "mode": "zero_shot",
+  "n_test": 38502
+}
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s43.pt: missing=0 unexpected=0
+{
+  "OA": 0.9732938353082345,
+  "AA": 0.9333931447784329,
+  "kappa": 0.9622634441178786,
+  "dataset": "PaviaC",
+  "seed": 43,
+  "mode": "zero_shot",
+  "n_test": 133340
+}
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s43.pt: missing=0 unexpected=0
+{
+  "OA": 0.7917615176151761,
+  "AA": 0.8595651703444404,
+  "kappa": 0.7661492597235463,
+  "dataset": "IndianPines",
+  "seed": 43,
+  "mode": "zero_shot",
+  "n_test": 9225
+}
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s43.pt: missing=0 unexpected=0
+{
+  "OA": 0.8867541104747829,
+  "AA": 0.9459406218762947,
+  "kappa": 0.8742775522725681,
+  "dataset": "Salinas",
+  "seed": 43,
+  "mode": "zero_shot",
+  "n_test": 48717
+}
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s44.pt: missing=0 unexpected=0
+{
+  "OA": 0.79619240558932,
+  "AA": 0.8509175988218117,
+  "kappa": 0.7385845336165391,
+  "dataset": "PaviaU",
+  "seed": 44,
+  "mode": "zero_shot",
+  "n_test": 38502
+}
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s44.pt: missing=0 unexpected=0
+{
+  "OA": 0.9660341982900855,
+  "AA": 0.9293256321208578,
+  "kappa": 0.952103843015994,
+  "dataset": "PaviaC",
+  "seed": 44,
+  "mode": "zero_shot",
+  "n_test": 133340
+}
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s44.pt: missing=0 unexpected=0
+{
+  "OA": 0.8096476964769648,
+  "AA": 0.8740831759970048,
+  "kappa": 0.7857215421075272,
+  "dataset": "IndianPines",
+  "seed": 44,
+  "mode": "zero_shot",
+  "n_test": 9225
+}
+[zero_shot] loaded /root/spectralclip-tmp/checkpoints/pretrain_s44.pt: missing=0 unexpected=0
+{
+  "OA": 0.8850298663710819,
+  "AA": 0.9443261144717837,
+  "kappa": 0.8724088540147881,
+  "dataset": "Salinas",
+  "seed": 44,
+  "mode": "zero_shot",
+  "n_test": 48717
+}
+{
+  "OA": 0.6582411672551266,
+  "AA": 0.7840691712523156,
+  "kappa": 0.5783092525299915,
+  "dataset": "PaviaU",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 42767
+}
+{
+  "OA": 0.7593784372001592,
+  "AA": 0.81244587973926,
+  "kappa": 0.6841897055207247,
+  "dataset": "PaviaU",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 42731
+}
+{
+  "OA": 0.7789204891533524,
+  "AA": 0.8329780537737563,
+  "kappa": 0.7122607955136009,
+  "dataset": "PaviaU",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 42686
+}
+{
+  "OA": 0.9646355210843577,
+  "AA": 0.9207332837438601,
+  "kappa": 0.9500083594067639,
+  "dataset": "PaviaC",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 148143
+}
+{
+  "OA": 0.9723915817618344,
+  "AA": 0.9373236635902901,
+  "kappa": 0.9609631731663378,
+  "dataset": "PaviaC",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 148107
+}
+{
+  "OA": 0.9701341329983385,
+  "AA": 0.9325013890519147,
+  "kappa": 0.9577662831569259,
+  "dataset": "PaviaC",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 148062
+}
+{
+  "OA": 0.584286133098798,
+  "AA": 0.6953001392374243,
+  "kappa": 0.5279083146275831,
+  "dataset": "IndianPines",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 10233
+}
+{
+  "OA": 0.7456977087225882,
+  "AA": 0.8192094261855299,
+  "kappa": 0.7133157369288656,
+  "dataset": "IndianPines",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 10169
+}
+{
+  "OA": 0.7376350480721579,
+  "AA": 0.8383693576365527,
+  "kappa": 0.7067638404061493,
+  "dataset": "IndianPines",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 10089
+}
+{
+  "OA": 0.8288581302090071,
+  "AA": 0.9049616581508682,
+  "kappa": 0.8077154291187225,
+  "dataset": "Salinas",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 54113
+}
+{
+  "OA": 0.8891746378286369,
+  "AA": 0.9390168196532074,
+  "kappa": 0.8765105461016801,
+  "dataset": "Salinas",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 54049
+}
+{
+  "OA": 0.8946061627971613,
+  "AA": 0.9422892720143449,
+  "kappa": 0.8826274108506447,
+  "dataset": "Salinas",
+  "seed": 42,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 53969
+}
+{
+  "OA": 0.6301587672738326,
+  "AA": 0.6730732829824723,
+  "kappa": 0.5216617507339179,
+  "dataset": "PaviaU",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 42767
+}
+{
+  "OA": 0.7641992932531417,
+  "AA": 0.7933226380427003,
+  "kappa": 0.6883770140911125,
+  "dataset": "PaviaU",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 42731
+}
+{
+  "OA": 0.7679801340017804,
+  "AA": 0.8115771603090528,
+  "kappa": 0.6966894796021121,
+  "dataset": "PaviaU",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 42686
+}
+{
+  "OA": 0.940429179914002,
+  "AA": 0.8831110828404772,
+  "kappa": 0.9163315499303682,
+  "dataset": "PaviaC",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 148143
+}
+{
+  "OA": 0.950893610700372,
+  "AA": 0.8992307015464908,
+  "kappa": 0.9308837618657481,
+  "dataset": "PaviaC",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 148107
+}
+{
+  "OA": 0.9564506760681336,
+  "AA": 0.9086111397866407,
+  "kappa": 0.9386387702554745,
+  "dataset": "PaviaC",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 148062
+}
+{
+  "OA": 0.5214502101045637,
+  "AA": 0.7031344549264811,
+  "kappa": 0.47724588925374434,
+  "dataset": "IndianPines",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 10233
+}
+{
+  "OA": 0.7119677451076802,
+  "AA": 0.8040248190458752,
+  "kappa": 0.675949361717637,
+  "dataset": "IndianPines",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 10169
+}
+{
+  "OA": 0.7245514917236594,
+  "AA": 0.805062049132291,
+  "kappa": 0.6898825432246888,
+  "dataset": "IndianPines",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 10089
+}
+{
+  "OA": 0.7261286566998688,
+  "AA": 0.8573477199854967,
+  "kappa": 0.7010108671566757,
+  "dataset": "Salinas",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 54113
+}
+{
+  "OA": 0.8301541194101648,
+  "AA": 0.9164677826286762,
+  "kappa": 0.8124743616932624,
+  "dataset": "Salinas",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 54049
+}
+{
+  "OA": 0.850191776760733,
+  "AA": 0.9249646862613317,
+  "kappa": 0.8343008605885596,
+  "dataset": "Salinas",
+  "seed": 43,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 53969
+}
+{
+  "OA": 0.6559964458577875,
+  "AA": 0.7334243798979201,
+  "kappa": 0.5613247721961858,
+  "dataset": "PaviaU",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 42767
+}
+{
+  "OA": 0.7452435000351033,
+  "AA": 0.7912200971959322,
+  "kappa": 0.6689677461003547,
+  "dataset": "PaviaU",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 42731
+}
+{
+  "OA": 0.7397741648315607,
+  "AA": 0.7898966739033612,
+  "kappa": 0.6620595804822511,
+  "dataset": "PaviaU",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 42686
+}
+{
+  "OA": 0.9485497121024956,
+  "AA": 0.8950245861880288,
+  "kappa": 0.9274099075543092,
+  "dataset": "PaviaC",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 148143
+}
+{
+  "OA": 0.9562748553410709,
+  "AA": 0.919940853765185,
+  "kappa": 0.938389634488086,
+  "dataset": "PaviaC",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 148107
+}
+{
+  "OA": 0.9608880063757075,
+  "AA": 0.9246302950158716,
+  "kappa": 0.9448333398393496,
+  "dataset": "PaviaC",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 148062
+}
+{
+  "OA": 0.6226912928759895,
+  "AA": 0.7395286545751294,
+  "kappa": 0.5792618039305022,
+  "dataset": "IndianPines",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 10233
+}
+{
+  "OA": 0.7137378306618153,
+  "AA": 0.8259510894889166,
+  "kappa": 0.6805526009525917,
+  "dataset": "IndianPines",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 10169
+}
+{
+  "OA": 0.7295073842799088,
+  "AA": 0.8276076333458812,
+  "kappa": 0.696308050438164,
+  "dataset": "IndianPines",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 10089
+}
+{
+  "OA": 0.830853953763421,
+  "AA": 0.8787412906495645,
+  "kappa": 0.8110031623059606,
+  "dataset": "Salinas",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 1,
+  "n_query": 54113
+}
+{
+  "OA": 0.8207737423449093,
+  "AA": 0.9150680783237894,
+  "kappa": 0.8024384912953069,
+  "dataset": "Salinas",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 5,
+  "n_query": 54049
+}
+{
+  "OA": 0.8426318812651707,
+  "AA": 0.923454597241613,
+  "kappa": 0.825848412262358,
+  "dataset": "Salinas",
+  "seed": 44,
+  "mode": "few_shot",
+  "k_per_class": 10,
+  "n_query": 53969
+}
+{
+  "OA": 0.016364181790910454,
+  "AA": 0.04087417822462227,
+  "kappa": -0.010568683393415323,
+  "dataset": "PaviaC",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "PaviaC"
+}
+{
+  "OA": 0.08,
+  "AA": 0.10117498900275293,
+  "kappa": 0.023581471670364618,
+  "dataset": "IndianPines",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "IndianPines"
+}
+{
+  "OA": 0.18820945460516864,
+  "AA": 0.1840688939664813,
+  "kappa": 0.12044310791319479,
+  "dataset": "Salinas",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "Salinas"
+}
+{
+  "OA": 0.13851228507609994,
+  "AA": 0.27486505898063995,
+  "kappa": 0.06358371455217782,
+  "dataset": "PaviaU",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 38502,
+  "src_dataset": "PaviaC",
+  "tgt_dataset": "PaviaU"
+}
+{
+  "OA": 0.08,
+  "AA": 0.10117498900275293,
+  "kappa": 0.023581471670364618,
+  "dataset": "IndianPines",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "PaviaC",
+  "tgt_dataset": "IndianPines"
+}
+{
+  "OA": 0.18820945460516864,
+  "AA": 0.1840688939664813,
+  "kappa": 0.12044310791319479,
+  "dataset": "Salinas",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "PaviaC",
+  "tgt_dataset": "Salinas"
+}
+{
+  "OA": 0.13851228507609994,
+  "AA": 0.27486505898063995,
+  "kappa": 0.06358371455217782,
+  "dataset": "PaviaU",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 38502,
+  "src_dataset": "IndianPines",
+  "tgt_dataset": "PaviaU"
+}
+{
+  "OA": 0.016364181790910454,
+  "AA": 0.04087417822462227,
+  "kappa": -0.010568683393415323,
+  "dataset": "PaviaC",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "IndianPines",
+  "tgt_dataset": "PaviaC"
+}
+{
+  "OA": 0.18820945460516864,
+  "AA": 0.1840688939664813,
+  "kappa": 0.12044310791319479,
+  "dataset": "Salinas",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "IndianPines",
+  "tgt_dataset": "Salinas"
+}
+{
+  "OA": 0.13851228507609994,
+  "AA": 0.27486505898063995,
+  "kappa": 0.06358371455217782,
+  "dataset": "PaviaU",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 38502,
+  "src_dataset": "Salinas",
+  "tgt_dataset": "PaviaU"
+}
+{
+  "OA": 0.016364181790910454,
+  "AA": 0.04087417822462227,
+  "kappa": -0.010568683393415323,
+  "dataset": "PaviaC",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "Salinas",
+  "tgt_dataset": "PaviaC"
+}
+{
+  "OA": 0.08,
+  "AA": 0.10117498900275293,
+  "kappa": 0.023581471670364618,
+  "dataset": "IndianPines",
+  "seed": 42,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "Salinas",
+  "tgt_dataset": "IndianPines"
+}
+{
+  "OA": 0.0019574021298935053,
+  "AA": 0.0112272192152125,
+  "kappa": -0.0330070701728673,
+  "dataset": "PaviaC",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "PaviaC"
+}
+{
+  "OA": 0.012574525745257453,
+  "AA": 0.0657364941062696,
+  "kappa": -0.05308704843613743,
+  "dataset": "IndianPines",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "IndianPines"
+}
+{
+  "OA": 0.03577806515179506,
+  "AA": 0.06120515731695364,
+  "kappa": 0.004790735450495354,
+  "dataset": "Salinas",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "Salinas"
+}
+{
+  "OA": 0.016908212560386472,
+  "AA": 0.02175579367419864,
+  "kappa": -0.0660110612880549,
+  "dataset": "PaviaU",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 38502,
+  "src_dataset": "PaviaC",
+  "tgt_dataset": "PaviaU"
+}
+{
+  "OA": 0.012574525745257453,
+  "AA": 0.0657364941062696,
+  "kappa": -0.05308704843613743,
+  "dataset": "IndianPines",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "PaviaC",
+  "tgt_dataset": "IndianPines"
+}
+{
+  "OA": 0.03577806515179506,
+  "AA": 0.06120515731695364,
+  "kappa": 0.004790735450495354,
+  "dataset": "Salinas",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "PaviaC",
+  "tgt_dataset": "Salinas"
+}
+{
+  "OA": 0.016908212560386472,
+  "AA": 0.02175579367419864,
+  "kappa": -0.0660110612880549,
+  "dataset": "PaviaU",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 38502,
+  "src_dataset": "IndianPines",
+  "tgt_dataset": "PaviaU"
+}
+{
+  "OA": 0.0019574021298935053,
+  "AA": 0.0112272192152125,
+  "kappa": -0.0330070701728673,
+  "dataset": "PaviaC",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "IndianPines",
+  "tgt_dataset": "PaviaC"
+}
+{
+  "OA": 0.03577806515179506,
+  "AA": 0.06120515731695364,
+  "kappa": 0.004790735450495354,
+  "dataset": "Salinas",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "IndianPines",
+  "tgt_dataset": "Salinas"
+}
+{
+  "OA": 0.016908212560386472,
+  "AA": 0.02175579367419864,
+  "kappa": -0.0660110612880549,
+  "dataset": "PaviaU",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 38502,
+  "src_dataset": "Salinas",
+  "tgt_dataset": "PaviaU"
+}
+{
+  "OA": 0.0019574021298935053,
+  "AA": 0.0112272192152125,
+  "kappa": -0.0330070701728673,
+  "dataset": "PaviaC",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "Salinas",
+  "tgt_dataset": "PaviaC"
+}
+{
+  "OA": 0.012574525745257453,
+  "AA": 0.0657364941062696,
+  "kappa": -0.05308704843613743,
+  "dataset": "IndianPines",
+  "seed": 43,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "Salinas",
+  "tgt_dataset": "IndianPines"
+}
+{
+  "OA": 0.22142642867856607,
+  "AA": 0.087330955472947,
+  "kappa": 0.11014872266636377,
+  "dataset": "PaviaC",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "PaviaC"
+}
+{
+  "OA": 0.1397289972899729,
+  "AA": 0.09438641000935985,
+  "kappa": 0.06413374014826334,
+  "dataset": "IndianPines",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "IndianPines"
+}
+{
+  "OA": 0.10166882197179629,
+  "AA": 0.06998657695887509,
+  "kappa": 0.026833006004559734,
+  "dataset": "Salinas",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "PaviaU",
+  "tgt_dataset": "Salinas"
+}
+{
+  "OA": 0.03080359461846138,
+  "AA": 0.032259627181216895,
+  "kappa": -0.1475594492186716,
+  "dataset": "PaviaU",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 38502,
+  "src_dataset": "PaviaC",
+  "tgt_dataset": "PaviaU"
+}
+{
+  "OA": 0.1397289972899729,
+  "AA": 0.09438641000935985,
+  "kappa": 0.06413374014826334,
+  "dataset": "IndianPines",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "PaviaC",
+  "tgt_dataset": "IndianPines"
+}
+{
+  "OA": 0.10166882197179629,
+  "AA": 0.06998657695887509,
+  "kappa": 0.026833006004559734,
+  "dataset": "Salinas",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "PaviaC",
+  "tgt_dataset": "Salinas"
+}
+{
+  "OA": 0.03080359461846138,
+  "AA": 0.032259627181216895,
+  "kappa": -0.1475594492186716,
+  "dataset": "PaviaU",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 38502,
+  "src_dataset": "IndianPines",
+  "tgt_dataset": "PaviaU"
+}
+{
+  "OA": 0.22142642867856607,
+  "AA": 0.087330955472947,
+  "kappa": 0.11014872266636377,
+  "dataset": "PaviaC",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "IndianPines",
+  "tgt_dataset": "PaviaC"
+}
+{
+  "OA": 0.10166882197179629,
+  "AA": 0.06998657695887509,
+  "kappa": 0.026833006004559734,
+  "dataset": "Salinas",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 48717,
+  "src_dataset": "IndianPines",
+  "tgt_dataset": "Salinas"
+}
+{
+  "OA": 0.03080359461846138,
+  "AA": 0.032259627181216895,
+  "kappa": -0.1475594492186716,
+  "dataset": "PaviaU",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 38502,
+  "src_dataset": "Salinas",
+  "tgt_dataset": "PaviaU"
+}
+{
+  "OA": 0.22142642867856607,
+  "AA": 0.087330955472947,
+  "kappa": 0.11014872266636377,
+  "dataset": "PaviaC",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 133340,
+  "src_dataset": "Salinas",
+  "tgt_dataset": "PaviaC"
+}
+{
+  "OA": 0.1397289972899729,
+  "AA": 0.09438641000935985,
+  "kappa": 0.06413374014826334,
+  "dataset": "IndianPines",
+  "seed": 44,
+  "mode": "cross_sensor_zero_shot",
+  "n_test": 9225,
+  "src_dataset": "Salinas",
+  "tgt_dataset": "IndianPines"
+}
+[RUN ] pretrain_s42
+[pretrain_s42] exit=0
+[SKIP] pretrain_s43
+[RUN ] pretrain_s44
+[pretrain_s44] exit=0
+[RUN ] finetune_PaviaU_s42
+[finetune_PaviaU_s42] exit=0
+[RUN ] finetune_PaviaC_s42
+[finetune_PaviaC_s42] exit=0
+[RUN ] finetune_IndianPines_s42
+[finetune_IndianPines_s42] exit=0
+[RUN ] finetune_Salinas_s42
+[finetune_Salinas_s42] exit=0
+[RUN ] finetune_PaviaU_s43
+[finetune_PaviaU_s43] exit=0
+[RUN ] finetune_PaviaC_s43
+[finetune_PaviaC_s43] exit=0
+[RUN ] finetune_IndianPines_s43
+[finetune_IndianPines_s43] exit=0
+[RUN ] finetune_Salinas_s43
+[finetune_Salinas_s43] exit=0
+[RUN ] finetune_PaviaU_s44
+[finetune_PaviaU_s44] exit=0
+[RUN ] finetune_PaviaC_s44
+[finetune_PaviaC_s44] exit=0
+[RUN ] finetune_IndianPines_s44
+[finetune_IndianPines_s44] exit=0
+[RUN ] finetune_Salinas_s44
+[finetune_Salinas_s44] exit=0
+[RUN ] zs_PaviaU_s42
+[zs_PaviaU_s42] exit=0
+[RUN ] zs_PaviaC_s42
+[zs_PaviaC_s42] exit=0
+[RUN ] zs_IndianPines_s42
+[zs_IndianPines_s42] exit=0
+[RUN ] zs_Salinas_s42
+[zs_Salinas_s42] exit=0
+[RUN ] zs_PaviaU_s43
+[zs_PaviaU_s43] exit=0
+[RUN ] zs_PaviaC_s43
+[zs_PaviaC_s43] exit=0
+[RUN ] zs_IndianPines_s43
+[zs_IndianPines_s43] exit=0
+[RUN ] zs_Salinas_s43
+[zs_Salinas_s43] exit=0
+[RUN ] zs_PaviaU_s44
+[zs_PaviaU_s44] exit=0
+[RUN ] zs_PaviaC_s44
+[zs_PaviaC_s44] exit=0
+[RUN ] zs_IndianPines_s44
+[zs_IndianPines_s44] exit=0
+[RUN ] zs_Salinas_s44
+[zs_Salinas_s44] exit=0
+[RUN ] fs_PaviaU_k1_s42
+[fs_PaviaU_k1_s42] exit=0
+[RUN ] fs_PaviaU_k5_s42
+[fs_PaviaU_k5_s42] exit=0
+[RUN ] fs_PaviaU_k10_s42
+[fs_PaviaU_k10_s42] exit=0
+[RUN ] fs_PaviaC_k1_s42
+[fs_PaviaC_k1_s42] exit=0
+[RUN ] fs_PaviaC_k5_s42
+[fs_PaviaC_k5_s42] exit=0
+[RUN ] fs_PaviaC_k10_s42
+[fs_PaviaC_k10_s42] exit=0
+[RUN ] fs_IndianPines_k1_s42
+[fs_IndianPines_k1_s42] exit=0
+[RUN ] fs_IndianPines_k5_s42
+[fs_IndianPines_k5_s42] exit=0
+[RUN ] fs_IndianPines_k10_s42
+[fs_IndianPines_k10_s42] exit=0
+[RUN ] fs_Salinas_k1_s42
+[fs_Salinas_k1_s42] exit=0
+[RUN ] fs_Salinas_k5_s42
+[fs_Salinas_k5_s42] exit=0
+[RUN ] fs_Salinas_k10_s42
+[fs_Salinas_k10_s42] exit=0
+[RUN ] fs_PaviaU_k1_s43
+[fs_PaviaU_k1_s43] exit=0
+[RUN ] fs_PaviaU_k5_s43
+[fs_PaviaU_k5_s43] exit=0
+[RUN ] fs_PaviaU_k10_s43
+[fs_PaviaU_k10_s43] exit=0
+[RUN ] fs_PaviaC_k1_s43
+[fs_PaviaC_k1_s43] exit=0
+[RUN ] fs_PaviaC_k5_s43
+[fs_PaviaC_k5_s43] exit=0
+[RUN ] fs_PaviaC_k10_s43
+[fs_PaviaC_k10_s43] exit=0
+[RUN ] fs_IndianPines_k1_s43
+[fs_IndianPines_k1_s43] exit=0
+[RUN ] fs_IndianPines_k5_s43
+[fs_IndianPines_k5_s43] exit=0
+[RUN ] fs_IndianPines_k10_s43
+[fs_IndianPines_k10_s43] exit=0
+[RUN ] fs_Salinas_k1_s43
+[fs_Salinas_k1_s43] exit=0
+[RUN ] fs_Salinas_k5_s43
+[fs_Salinas_k5_s43] exit=0
+[RUN ] fs_Salinas_k10_s43
+[fs_Salinas_k10_s43] exit=0
+[RUN ] fs_PaviaU_k1_s44
+[fs_PaviaU_k1_s44] exit=0
+[RUN ] fs_PaviaU_k5_s44
+[fs_PaviaU_k5_s44] exit=0
+[RUN ] fs_PaviaU_k10_s44
+[fs_PaviaU_k10_s44] exit=0
+[RUN ] fs_PaviaC_k1_s44
+[fs_PaviaC_k1_s44] exit=0
+[RUN ] fs_PaviaC_k5_s44
+[fs_PaviaC_k5_s44] exit=0
+[RUN ] fs_PaviaC_k10_s44
+[fs_PaviaC_k10_s44] exit=0
+[RUN ] fs_IndianPines_k1_s44
+[fs_IndianPines_k1_s44] exit=0
+[RUN ] fs_IndianPines_k5_s44
+[fs_IndianPines_k5_s44] exit=0
+[RUN ] fs_IndianPines_k10_s44
+[fs_IndianPines_k10_s44] exit=0
+[RUN ] fs_Salinas_k1_s44
+[fs_Salinas_k1_s44] exit=0
+[RUN ] fs_Salinas_k5_s44
+[fs_Salinas_k5_s44] exit=0
+[RUN ] fs_Salinas_k10_s44
+[fs_Salinas_k10_s44] exit=0
+[RUN ] xs_PaviaU_to_PaviaC_s42
+[xs_PaviaU_to_PaviaC_s42] exit=0
+[RUN ] xs_PaviaU_to_IndianPines_s42
+[xs_PaviaU_to_IndianPines_s42] exit=0
+[RUN ] xs_PaviaU_to_Salinas_s42
+[xs_PaviaU_to_Salinas_s42] exit=0
+[RUN ] xs_PaviaC_to_PaviaU_s42
+[xs_PaviaC_to_PaviaU_s42] exit=0
+[RUN ] xs_PaviaC_to_IndianPines_s42
+[xs_PaviaC_to_IndianPines_s42] exit=0
+[RUN ] xs_PaviaC_to_Salinas_s42
+[xs_PaviaC_to_Salinas_s42] exit=0
+[RUN ] xs_IndianPines_to_PaviaU_s42
+[xs_IndianPines_to_PaviaU_s42] exit=0
+[RUN ] xs_IndianPines_to_PaviaC_s42
+[xs_IndianPines_to_PaviaC_s42] exit=0
+[RUN ] xs_IndianPines_to_Salinas_s42
+[xs_IndianPines_to_Salinas_s42] exit=0
+[RUN ] xs_Salinas_to_PaviaU_s42
+[xs_Salinas_to_PaviaU_s42] exit=0
+[RUN ] xs_Salinas_to_PaviaC_s42
+[xs_Salinas_to_PaviaC_s42] exit=0
+[RUN ] xs_Salinas_to_IndianPines_s42
+[xs_Salinas_to_IndianPines_s42] exit=0
+[RUN ] xs_PaviaU_to_PaviaC_s43
+[xs_PaviaU_to_PaviaC_s43] exit=0
+[RUN ] xs_PaviaU_to_IndianPines_s43
+[xs_PaviaU_to_IndianPines_s43] exit=0
+[RUN ] xs_PaviaU_to_Salinas_s43
+[xs_PaviaU_to_Salinas_s43] exit=0
+[RUN ] xs_PaviaC_to_PaviaU_s43
+[xs_PaviaC_to_PaviaU_s43] exit=0
+[RUN ] xs_PaviaC_to_IndianPines_s43
+[xs_PaviaC_to_IndianPines_s43] exit=0
+[RUN ] xs_PaviaC_to_Salinas_s43
+[xs_PaviaC_to_Salinas_s43] exit=0
+[RUN ] xs_IndianPines_to_PaviaU_s43
+[xs_IndianPines_to_PaviaU_s43] exit=0
+[RUN ] xs_IndianPines_to_PaviaC_s43
+[xs_IndianPines_to_PaviaC_s43] exit=0
+[RUN ] xs_IndianPines_to_Salinas_s43
+[xs_IndianPines_to_Salinas_s43] exit=0
+[RUN ] xs_Salinas_to_PaviaU_s43
+[xs_Salinas_to_PaviaU_s43] exit=0
+[RUN ] xs_Salinas_to_PaviaC_s43
+[xs_Salinas_to_PaviaC_s43] exit=0
+[RUN ] xs_Salinas_to_IndianPines_s43
+[xs_Salinas_to_IndianPines_s43] exit=0
+[RUN ] xs_PaviaU_to_PaviaC_s44
+[xs_PaviaU_to_PaviaC_s44] exit=0
+[RUN ] xs_PaviaU_to_IndianPines_s44
+[xs_PaviaU_to_IndianPines_s44] exit=0
+[RUN ] xs_PaviaU_to_Salinas_s44
+[xs_PaviaU_to_Salinas_s44] exit=0
+[RUN ] xs_PaviaC_to_PaviaU_s44
+[xs_PaviaC_to_PaviaU_s44] exit=0
+[RUN ] xs_PaviaC_to_IndianPines_s44
+[xs_PaviaC_to_IndianPines_s44] exit=0
+[RUN ] xs_PaviaC_to_Salinas_s44
+[xs_PaviaC_to_Salinas_s44] exit=0
+[RUN ] xs_IndianPines_to_PaviaU_s44
+[xs_IndianPines_to_PaviaU_s44] exit=0
+[RUN ] xs_IndianPines_to_PaviaC_s44
+[xs_IndianPines_to_PaviaC_s44] exit=0
+[RUN ] xs_IndianPines_to_Salinas_s44
+[xs_IndianPines_to_Salinas_s44] exit=0
+[RUN ] xs_Salinas_to_PaviaU_s44
+[xs_Salinas_to_PaviaU_s44] exit=0
+[RUN ] xs_Salinas_to_PaviaC_s44
+[xs_Salinas_to_PaviaC_s44] exit=0
+[RUN ] xs_Salinas_to_IndianPines_s44
+[xs_Salinas_to_IndianPines_s44] exit=0
+ALL DONE
